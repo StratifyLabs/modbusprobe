@@ -1,0 +1,25 @@
+{
+    "buildprefix": "build_",
+    "change": "Add -write switch",
+    "changes": {
+        "-LLuIKTOM96Ty4ilkuRr": {
+            "description": "Additional arch descriptions (f5sh)",
+            "version": "0.1"
+        },
+        "-LM49o4-HdkayMVDNrEM": {
+            "description": "Add -write switch",
+            "version": "0.3"
+        }
+    },
+    "description": "modbusprobe is a modbus master application that works using the UART and a direction control pin.",
+    "github": "",
+    "hardwareid": "",
+    "name": "modbusprobe",
+    "permissions": "public",
+    "publisher": "Stratify Labs, Inc",
+    "ram": 0,
+    "tags": "demo",
+    "type": "StratifyApp",
+    "uid": "QSW7bQHeDqhJEcZ0mxQ5SmEYUSL2",
+    "version": "0.3"
+}
